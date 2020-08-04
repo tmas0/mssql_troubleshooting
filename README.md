@@ -1,2 +1,2 @@
 # mssql_troubleshooting
-Microsoft SQL Server thoubleshooting tips &amp; documentation
+Microsoft SQL Server troubleshooting tips &amp; documentation
